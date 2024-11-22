@@ -54,5 +54,4 @@ If you have suggestions or improvements for the analysis, feel free to fork this
 
 ---
 
-**Author**: [Tiffany Bergett](https://github.com/Tiffany-Bergett)  
-**License**: MIT
+**Author**: [Parker Cowden](https://github.com/Parkerjcow)  
