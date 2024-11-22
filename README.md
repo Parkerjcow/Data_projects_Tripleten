@@ -1,11 +1,58 @@
-# TripleTen_projects
-Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
+# Zuber Database Analysis
 
+## Overview
 
-| Project Type | Title | Description |
-| :-----------: | ----------- |----------- |
-| SQL | The Zuber Database | The project task was to consult the rideshare company Zuber by analyzing rideshare data to understand passenger preferences and the impact of external factors on rides |
-| Tableau | [Tackling Returns: Insights for Reducing Superstore Order Returns](https://public.tableau.com/views/TTProjectSprint5/WhatisCausingReturnsDraft?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | This Tableau project analyzes return trends at the Superstore, identifying root causes and providing actionable insights to reduce order returns and improve efficiency. |
-| Excel | [E-Commerce Insights: Conversion Funnels and Retention Cohorts](https://docs.google.com/spreadsheets/d/1vhWnK4jb9EjznEOfXTqIagNukY1u_PT3C-MZlm-Vc18/edit?usp=sharing) | This project analyzes user behavior and transaction data to build actionable insights on conversion rates, retention cohorts, and customer activity for optimizing e-commerce performance. |
-| Tableau | [Saving SuperStore: Turning Insights into Action](https://public.tableau.com/views/TripleTenTableauProject_17301200701130/ProfitsLosses?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | This Tableau project analyzes the superstore's data to uncover profit drivers, reduce losses, and recommend strategies for growth and sustainability. |
-| Excel | [Manhattan Vacation Rental Market](https://docs.google.com/spreadsheets/d/1WDoB2zXPS-7MgIK0kv7MgObjQP7JtJ-4YFrD4LkzLtM/edit?usp=sharing) | The project task was to consult a short-term rental company on what types of properties they should be targeting in the Manhattan borough of New York City-based on Airbnb listings and to present the findings|
+This project analyzes the Zuber database, focusing on identifying key performance trends, insights, and recommendations for enhancing operational efficiency. The analysis utilizes data visualization and statistical techniques to uncover insights that support strategic decision-making.
+
+## Project Objectives
+
+1. Analyze customer behavior trends within the Zuber database.
+2. Investigate the effectiveness of various Zuber services.
+3. Provide actionable recommendations for improving user satisfaction and service efficiency.
+
+## Key Deliverables
+
+- **Data Cleaning and Preparation**: Ensured all data was properly formatted and missing values addressed.
+- **Visual Analytics**: Generated insightful visualizations to highlight trends and patterns in Zuber’s operations.
+- **Key Insights**: Identified correlations and anomalies in the data, which directly inform operational strategies.
+
+## Tools and Techniques
+
+- **Programming Languages**: Python (Pandas, Matplotlib, Seaborn)
+- **Visualization Tools**: Tableau, Power BI
+- **Statistical Techniques**: Hypothesis Testing, Regression Analysis
+
+## Highlights from the Analysis
+
+- **Customer Behavior**:
+  - Peak usage times and popular service areas were identified.
+  - Patterns of repeat users were analyzed, highlighting key demographics.
+  
+- **Service Efficiency**:
+  - Average response times and trip completion rates were benchmarked.
+  - Identified underperforming regions and recommended strategies for improvement.
+  
+- **Revenue Insights**:
+  - Explored service pricing strategies and their correlation with revenue trends.
+  - Highlighted opportunities for service optimization to maximize profit.
+
+## Recommendations
+
+1. Focus marketing campaigns on high-demand regions during peak hours.
+2. Introduce incentives for drivers in underperforming areas to balance service availability.
+3. Enhance service reliability by improving response times in identified bottleneck regions.
+
+## How to Explore the Project
+
+1. **Zuber Database**: Explore the original data used for the analysis.
+2. **Code**: Python scripts for data cleaning, visualization, and statistical analysis.
+3. **Visualizations**: Interactive charts and dashboards summarizing key findings.
+
+## How to Contribute
+
+If you have suggestions or improvements for the analysis, feel free to fork this repository, create a new branch, and submit a pull request. Contributions are welcome!
+
+---
+
+**Author**: [Tiffany Bergett](https://github.com/Tiffany-Bergett)  
+**License**: MIT
