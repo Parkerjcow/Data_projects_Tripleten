@@ -42,12 +42,6 @@ This project analyzes the Zuber database, focusing on identifying key performanc
 2. Introduce incentives for drivers in underperforming areas to balance service availability.
 3. Enhance service reliability by improving response times in identified bottleneck regions.
 
-## How to Explore the Project
-
-1. **Zuber Database**: Explore the original data used for the analysis.
-2. **Code**: Python scripts for data cleaning, visualization, and statistical analysis.
-3. **Visualizations**: Interactive charts and dashboards summarizing key findings.
-
 ## How to Contribute
 
 If you have suggestions or improvements for the analysis, feel free to fork this repository, create a new branch, and submit a pull request. Contributions are welcome!
