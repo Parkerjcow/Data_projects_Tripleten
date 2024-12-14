@@ -6,7 +6,7 @@ This was my final project for the **TripleTen Business Intelligence Analytics Pr
 
 ## First Dashboard
 
-![Zomato Dashboard](path-to-your-image)
+![Zomato Dashboard](Zamato Customer Analysis Dashboard.png)
 
 ---
 
