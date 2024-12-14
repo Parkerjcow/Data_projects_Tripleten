@@ -14,7 +14,7 @@ This was my final project for the **TripleTen Business Intelligence Analytics Pr
 
 | **File Number** | **Title**                  | **Description**                                                                 |
 |------------------|---------------------------|---------------------------------------------------------------------------------|
-| 1                | **Raw Data for CSA**      | Folder containing 2 .xlsx files, one for each table used in the analysis.       |
+| 1                | **Raw Data for Customer Segmentation**      | Folder containing 2 .xlsx files, one for each table used in the analysis.       |
 | 2                | **Final Project Report.pdf** | A .pdf file with the written report for this project.                          |
 | 3                | **README.md**             | This current page with all relevant information about the project.              |
 | 4                | **Requirements.txt**      | A simple .txt file with the provided project requirements as given by TripleTen.|
