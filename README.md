@@ -8,8 +8,6 @@ This was my final project for the **TripleTen Business Intelligence Analytics Pr
 
 ![Zomato Dashboard](path-to-your-image)
 
-[Loom Video Overview](https://link-to-loom-video) can be found here.
-
 ---
 
 ## Table of Contents for Repository Artifacts
