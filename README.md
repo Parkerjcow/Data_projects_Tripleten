@@ -101,7 +101,7 @@ The analysis revealed the following key insights about Zomato’s customer base:
 ## How to View the Dashboard
 
 To explore the dashboard:
-1. Open the Power BI file (`Zomato.TB.pbix`) included in this repository.
+1. Open the Power BI file (`Zamato.PowerBI.pbix`) included in this repository.
 2. Review the dashboard to interact with all visuals, slicers, and filters.
 3. Use the KPI cards and segmentation visuals to gain insights into customer demographics and purchasing behavior.
 
