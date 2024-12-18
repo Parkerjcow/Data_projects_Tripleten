@@ -18,8 +18,7 @@ This project analyzes the Zuber database, focusing on identifying key performanc
 
 ## Tools and Techniques
 
-- **Programming Languages**: Python (Pandas, Matplotlib, Seaborn)
-- **Visualization Tools**: Tableau, Power BI
+- **Programming Languages**: SQL
 - **Statistical Techniques**: Hypothesis Testing, Regression Analysis
 
 ## Highlights from the Analysis
