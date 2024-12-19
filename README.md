@@ -7,14 +7,16 @@ This was the fourth project that I worked on in the TripleTen Business Intellige
 Includes data analysis, charts, and dashboard.
 
 **Process:**
+
 I first joined the sheets. Then I determined profit and loss centers. Lastly, I examined the contribution returns had on profits.
 
 **Data**
+
 The data was one Excel spreadsheet file provided by TripleTen:
 
-'Superstore.xls': each row corresponds to one product sold; sheets were LEFT JOIN'd
-'orders': details all fields for each ordered item
-'returns': details all fields for each returned item
+ - 'Superstore.xls': each row corresponds to one product sold; sheets were LEFT JOIN'd
+ - 'orders': details all fields for each ordered item
+ - 'returns': details all fields for each returned item
 
 **Assumptions:**
 Profits from sales are totaling in the negative.
