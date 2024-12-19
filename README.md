@@ -6,6 +6,8 @@ This was the fourth project that I worked on in the TripleTen Business Intellige
 7-page Tableau Visualization
 Includes data analysis, charts, and dashboard.
 
+![Profit and Loss}(https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Saving-SuperStore-Turning-Insights-into-Action/Profits%20&%20Losses.png?raw=true)
+
 **Process:**
 
 I first joined the sheets. Then I determined profit and loss centers. Lastly, I examined the contribution returns had on profits.
