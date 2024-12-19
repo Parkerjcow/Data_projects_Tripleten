@@ -3,7 +3,7 @@
 This was the fourth project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned about Tableau Visualization. The purpose was to consultant the company by reviewing the store’s operations and increase its profitability to avoid bankruptcy.
 
 # Description:
-7-page Tableau Visualization
+11-page Tableau Visualization
 Includes data analysis, charts, and dashboard.
 
 ![Profit and Loss](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Saving-SuperStore-Turning-Insights-into-Action/Profits%20&%20Losses.png?raw=true)
