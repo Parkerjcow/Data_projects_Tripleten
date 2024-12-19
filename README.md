@@ -5,9 +5,9 @@ This was the fifth project that I worked on in the TripleTen Business Intelligen
 
 **Data**
 - The data was one Excel spreadsheet file provided by TripleTen:
- - 'Superstore.xls': each row corresponds to one product sold; sheets were LEFT JOIN'd
- - 'orders': details all fields for each ordered item
- - 'returns': details all fields for each returned item
+  - 'Superstore.xls': each row corresponds to one product sold; sheets were LEFT JOIN'd
+  - 'orders': details all fields for each ordered item
+  - 'returns': details all fields for each returned item
 
 **Description:**
 - 9-page Tableau Visualization and Presentation
