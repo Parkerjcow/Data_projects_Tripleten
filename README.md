@@ -7,23 +7,25 @@ This was an independent project designed to showcase what I have learned about A
 8 page spreadsheet
 Includes organizational tabs, raw data (Hidden), processed data, data analysis, pivot tables, and bar charts.
 
-**Process:**
+## Process:
 
-Data Preparation: Filtering techniques were used to identify and clean inconsistencies within the Airbnb data. Irrelevant columns were hidden to maintain a focused analysis. Key functions such as PROPER, TRIM, IF, ISNUMBER, FIND, ROUND, SUMIF, VLOOKUP, CHOOSE, and WEEKDAY were employed for data tidying.
-Neighborhood Analysis: Identify the top-performing neighborhoods based on review frequency via Pivot Table.
-Property Size Analysis: Determine the optimal property sizes for each neighborhoodvia Pivot Table showcased with conditional formatting.
-Revenue Analysis: Calculate estimated annual revenue for the most attractive listings.
-Additional Optional Analysis: Perform Analysis through Pivot Tables for occupancy rates by day, price by super host status, check-in ratings by use of doormen, and price by review ratings.
-Data Visualization: Create clear and informative visualizations (charts) to present findings.
-Formatting and Organization: Ensure your analysis is well-formatted for ease of readability.
-Documentation: Create organizational sheets like an executive summary, table of contents, assumptions log, and change log.
+- Data Preparation: Filtering techniques were used to identify and clean inconsistencies within the Airbnb data. Irrelevant columns were hidden to maintain a focused analysis. Key functions such as PROPER, TRIM, IF, ISNUMBER, FIND, ROUND, SUMIF, VLOOKUP, CHOOSE, and WEEKDAY were employed for data tidying.
+- Neighborhood Analysis: Identify the top-performing neighborhoods based on review frequency via Pivot Table.
+- Property Size Analysis: Determine the optimal property sizes for each neighborhoodvia Pivot Table showcased with conditional formatting.
+- Revenue Analysis: Calculate estimated annual revenue for the most attractive listings.
+- Additional Optional Analysis: Perform Analysis through Pivot Tables for occupancy rates by day, price by super host status, check-in ratings by use of doormen, and price by review ratings.
+- Data Visualization: Create clear and informative visualizations (charts) to present findings.
+- Formatting and Organization: Ensure your analysis is well-formatted for ease of readability.
+- Documentation: Create organizational sheets like an executive summary, table of contents, assumptions log, and change log.
 Data
-The data was one Google spreadsheet file provided by TripleTen, Copy can be found HERE:
 
-'nyc_airbnb_data.csv': each row corresponds to one listing on Airbnb in September 2022
-'data_dictionary': summary of field titles seen in the file and its data type
-'listings': uniquely listings available with all available data
-'calendar': listings with upcoming availabilities and date-type data
+## The data was one Google spreadsheet file provided by TripleTen, Copy can be found [HERE](https://docs.google.com/spreadsheets/d/1WDoB2zXPS-7MgIK0kv7MgObjQP7JtJ-4YFrD4LkzLtM/edit?gid=1647054102#gid=1647054102):
+
+- 'nyc_airbnb_data.csv': each row corresponds to one listing on Airbnb in September 2022
+  - 'data_dictionary': summary of field titles seen in the file and its data type
+  - 'listings': uniquely listings available with all available data
+  - 'calendar': listings with upcoming availabilities and date-type data
+  
 Assumptions:
 -Airbnb rentals are equivalent to the general short-term vacation rental market. -Only properties with a Minimum night requirement of 7 days or less were considered. -Properties with no reviews in the last 12 months were considered inactive. -Reviews reflect rental frequency, we used "number_of_reviews_ltm" to measure a listing's attractiveness. -Super luxury listings with prices greater than $1,321.21 were filtered from the analysis, 1% outlier. -Extremely low-priced listings of less than $85.28 were filtered from the analysis, 1% outlier. -Estimated Annual Revenue can be calculated by comparing averages for top listings. -"Building staff" equates to a Doorman -A listing of 9k can be excluded when examining price/review due to it being an extreme outlier.
 
