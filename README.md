@@ -27,7 +27,15 @@ Data
   - 'calendar': listings with upcoming availabilities and date-type data
   
 Assumptions:
--Airbnb rentals are equivalent to the general short-term vacation rental market. -Only properties with a Minimum night requirement of 7 days or less were considered. -Properties with no reviews in the last 12 months were considered inactive. -Reviews reflect rental frequency, we used "number_of_reviews_ltm" to measure a listing's attractiveness. -Super luxury listings with prices greater than $1,321.21 were filtered from the analysis, 1% outlier. -Extremely low-priced listings of less than $85.28 were filtered from the analysis, 1% outlier. -Estimated Annual Revenue can be calculated by comparing averages for top listings. -"Building staff" equates to a Doorman -A listing of 9k can be excluded when examining price/review due to it being an extreme outlier.
+
+- Airbnb rentals are equivalent to the general short-term vacation rental market. 
+- Only properties with a Minimum night requirement of 7 days or less were considered. 
+- Properties with no reviews in the last 12 months were considered inactive. 
+- Reviews reflect rental frequency, we used "number_of_reviews_ltm" to measure a listing's attractiveness. 
+- Super luxury listings with prices greater than $1,321.21 were filtered from the analysis, 1% outlier. 
+- Extremely low-priced listings of less than $85.28 were filtered from the analysis, 1% outlier. 
+- Estimated Annual Revenue can be calculated by comparing averages for top listings. 
+-"Building staff" equates to a Doorman -A listing of 9k can be excluded when examining price/review due to it being an extreme outlier.
 
 **Findings and Recommendations:**
 
