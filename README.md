@@ -7,7 +7,7 @@ This was an independent project designed to showcase what I have learned about A
 [8-page spreadsheet](https://docs.google.com/spreadsheets/d/1WDoB2zXPS-7MgIK0kv7MgObjQP7JtJ-4YFrD4LkzLtM/edit?gid=1647054102#gid=1647054102)
 Includes organizational tabs, raw data (Hidden), processed data, data analysis, pivot tables, and bar charts.
 
-![Top 10 Vacation Rentals)[https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Manhattan-Vacation-Rental-Market/Top%2010%20Vacation%20Rentals.png?raw=true]
+![Top 10 Vacation Rentals](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Manhattan-Vacation-Rental-Market/Top%2010%20Vacation%20Rentals.png?raw=true)
 
 ## Process:
 
