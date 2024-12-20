@@ -39,11 +39,11 @@ Assumptions:
 
 **Findings and Recommendations:**
 
-The top recommended neighborhoods for vacation rentals are as follows: Lower East Side, Hell's Kitchen, Harlem, Midtown, Upper West Side, Chelsea, East Village, East Harlem, West Village, Upper East Side.
-The top rental size is 1 bedroom overall. Lower East Side properties should have 1-bedrooms to meet demand. Hell's Kitchen prefers 2 bedrooms and Midtown prefers Studio.
-The estimated annual revenue based on top listing characteristics is $69,957.
-Fridays have the highest occupancy rate out of the week, average occupancy is 86.4%.
-Instant bookings do have higher occupancy rates, statistically significant, average is 52%.
-Superhosts can charge higher prices, statistically significant, on average $334.
-Building with doormen gets better reviews, statistically significant, by 0.05 stars.
-Hosts can charge higher prices for higher review ratings.
+- The top recommended neighborhoods for vacation rentals are as follows: Lower East Side, Hell's Kitchen, Harlem, Midtown, Upper West Side, Chelsea, East Village, East Harlem, West Village, Upper East Side.
+- The top rental size is 1 bedroom overall. Lower East Side properties should have 1-bedrooms to meet demand. Hell's Kitchen prefers 2 bedrooms and Midtown prefers Studio.
+- The estimated annual revenue based on top listing characteristics is $69,957.
+- Fridays have the highest occupancy rate out of the week, average occupancy is 86.4%.
+- Instant bookings do have higher occupancy rates, statistically significant, average is 52%.
+- Superhosts can charge higher prices, statistically significant, on average $334.
+- Building with doormen gets better reviews, statistically significant, by 0.05 stars.
+- Hosts can charge higher prices for higher review ratings.
