@@ -5,7 +5,7 @@ This was the third project that I worked on in the TripleTen Business Intelligen
 **Description:**
 
 - 8-page spreadsheet
-- Includes raw data (Hidden), processed data, data analysis, and pivot tables.
+- Includes raw data, processed data, data analysis, and pivot tables.
 
 **Process:**
 
