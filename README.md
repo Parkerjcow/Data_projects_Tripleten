@@ -7,6 +7,8 @@ This was the third project that I worked on in the TripleTen Business Intelligen
 - 8-page spreadsheet
 - Includes raw data, processed data, data analysis, and pivot tables.
 
+![User Journey Through CR](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/E-Commerce-Insights-Conversion-Funnels-and-Retention-Cohorts/User%20Journey%20Through%20CR.png?raw=true)
+
 **Process:**
 
 I first explored, filtered, and cleaned the data. Then I created and built a conversion funnel. I prepared data for cohort analysis. Calculated retention rates. Lastly, I finalized the formatting and documentation for the client's readability.
