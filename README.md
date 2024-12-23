@@ -27,9 +27,9 @@ The data was one Google spreadsheet file provided by TripleTen
 
 **Assumptions:**
 
-The "raw_user_activity" sheet accurately reflects all website activity for the relevant timeframe.
-Missing values or inconsistencies in the data are minimal and can be ignored.
-The provided data format (columns, data types) is correct and consistent.
+- The "raw_user_activity" sheet accurately reflects all website activity for the relevant timeframe.
+- Missing values or inconsistencies in the data are minimal and can be ignored.
+- The provided data format (columns, data types) is correct and consistent.
 
 **Findings** 
   - The total conversion rate from view to purchase was 10%. While the view-to-shopping cart conversion rate was 29%.
