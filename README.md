@@ -1,13 +1,44 @@
-# TripleTen_projects
-Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
+# E-Commerce Insights: Conversion Funnels and Retention Cohorts
+
+This was the third project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned in Business Analytics. The purpose was to analyze the companies' raw transaction logs and turn the event logs into business metrics.
+
+**Description:**
+
+- 8-page spreadsheet
+- Includes raw data (Hidden), processed data, data analysis, and pivot tables.
+
+**Process:**
+
+I first explored, filtered, and cleaned the data. Then I created and built a conversion funnel. I prepared data for cohort analysis. Calculated retention rates. Lastly, I finalized the formatting and documentation for the client's readability.
+
+**Data**
+
+The data was one Google spreadsheet file provided by TripleTen
+
+- 'raw_user_activity': Each row represents an activity, or event, by a user on the company’s website
+ - 'user_id': unique customer IDs
+ - 'event_type': the type of activity by the user
+ - 'category_code': category of the product being viewed or purchased
+ - 'brand': the company that makes the product
+ - 'price': price of the product, in USD
+ - 'event_date': date of the user activity, in YYYY-MM-DD format
+- 'Table of Contents': Preformated yet empty table of contents sheet
+- 'Executive Summary: Preformated yet empty executive summary sheet
+
+**Assumptions:**
+
+The "raw_user_activity" sheet accurately reflects all website activity for the relevant timeframe.
+Missing values or inconsistencies in the data are minimal and can be ignored.
+The provided data format (columns, data types) is correct and consistent.
+
+**Findings** 
+  - The total conversion rate from view to purchase was 10%. While the view-to-shopping cart conversion rate was 29%.
+  - Retention rates for the 2020-09 cohort group after the first month were only 13%; by the 4th month, it was down to 3%.
 
 
-| Project Type | Title | Description |
-| :-----------: | ----------- |----------- |
-| PowerBI | [Zamato Customer Segmentation]( https://github.com/Parkerjcow/Data_projects_Tripleten/tree/Zomato-Customer-Analysis) | A Customer Analysis Segmentation with RFM for Zomato restaurants|
-| SQL | [The Zuber Database](https://github.com/Parkerjcow/Data_projects_Tripleten/tree/The-Zuber-Database) | The project task was to consult the rideshare company Zuber by analyzing rideshare data to understand passenger preferences and the impact of external factors on rides |
-| Tableau | [Tackling Returns: Insights for Reducing Superstore Order Returns](https://github.com/Parkerjcow/Data_projects_Tripleten/tree/Tackling-Returns-Insights-for-Reducing-Superstore-Order-Returns) | This Tableau project analyzes return trends at the Superstore, identifying root causes and providing actionable insights to reduce order returns and improve efficiency. |
-| Tableau | [Saving SuperStore: Turning Insights into Action](https://github.com/Parkerjcow/Data_projects_Tripleten/tree/Saving-SuperStore-Turning-Insights-into-Action) | This Tableau project analyzes the superstore's data to uncover profit drivers, reduce losses, and recommend strategies for growth and sustainability. |
-| Excel | [E-Commerce Insights: Conversion Funnels and Retention Cohorts](https://docs.google.com/spreadsheets/d/1vhWnK4jb9EjznEOfXTqIagNukY1u_PT3C-MZlm-Vc18/edit?usp=sharing) | This project analyzes user behavior and transaction data to build actionable insights on conversion rates, retention cohorts, and customer activity for optimizing e-commerce performance. |
-| Excel | [Manhattan Vacation Rental Market](https://github.com/Parkerjcow/Data_projects_Tripleten/tree/Manhattan-Vacation-Rental-Market)| The project task was to consult a short-term rental company on what types of properties they should be targeting in the Manhattan borough of New York City-based on Airbnb listings and to present the findings|
+**Recommendations:**'
 
+- Address Shopping Cart Abandonment and Purchase Conversion. Future projects can focus on the best approach such as product page vs checkout process as a source of funnel deterioration.
+- Enhance customer engagement and loyalty. Potential marketing campaigns could be personalized communications, loyalty programs, and looking into customer support.
+- Gain customer feedback for a more targeted strategy.
+- Continue data-driven insights to follow changes in the cohort analysis.
