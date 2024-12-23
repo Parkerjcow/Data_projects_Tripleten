@@ -32,8 +32,8 @@ The data was one Google spreadsheet file provided by TripleTen
 - The provided data format (columns, data types) is correct and consistent.
 
 **Findings** 
-  - The total conversion rate from view to purchase was 10%. While the view-to-shopping cart conversion rate was 29%.
-  - Retention rates for the 2020-09 cohort group after the first month were only 13%; by the 4th month, it was down to 3%.
+- Out of 10,453 people who viewed a product, 29.04% added items to their cart, but only 35.61% actually made a purchase. This means the total conversion rate was 10.34%. The data points to a significant drop-off between browsing and buying, which could indicate potential issues in the checkout process that might need improvement.
+- User retention drops significantly after the first month, with only small percentages of users staying active in the following months. For instance, in September 2020, just 50% of users were retained in the second month, and this figure dropped drastically to 0% by the third month. Improving long-term engagement will be key to addressing this issue.
 
 
 **Recommendations:**'
