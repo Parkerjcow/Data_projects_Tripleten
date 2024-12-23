@@ -1,6 +1,8 @@
 # E-Commerce Insights: Conversion Funnels and Retention Cohorts
 
-This was the third project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned in Business Analytics. The purpose was to analyze the companies' raw transaction logs and turn the event logs into business metrics. [Click Here](https://docs.google.com/spreadsheets/d/1vhWnK4jb9EjznEOfXTqIagNukY1u_PT3C-MZlm-Vc18/edit?usp=sharing) for the Google Sheet.
+This was the third project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned in Business Analytics. The purpose was to analyze the companies' raw transaction logs and turn the event logs into business metrics. 
+
+**[Click Here](https://docs.google.com/spreadsheets/d/1vhWnK4jb9EjznEOfXTqIagNukY1u_PT3C-MZlm-Vc18/edit?usp=sharing) for the Google Sheet.**
 
 **Description:**
 
