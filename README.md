@@ -16,12 +16,12 @@ I first explored, filtered, and cleaned the data. Then I created and built a con
 The data was one Google spreadsheet file provided by TripleTen
 
 - 'raw_user_activity': Each row represents an activity, or event, by a user on the company’s website
- - 'user_id': unique customer IDs
- - 'event_type': the type of activity by the user
- - 'category_code': category of the product being viewed or purchased
- - 'brand': the company that makes the product
- - 'price': price of the product, in USD
- - 'event_date': date of the user activity, in YYYY-MM-DD format
+  - 'user_id': unique customer IDs
+  - 'event_type': the type of activity by the user
+  - 'category_code': category of the product being viewed or purchased
+  - 'brand': the company that makes the product
+  - 'price': price of the product, in USD
+  - 'event_date': date of the user activity, in YYYY-MM-DD format
 - 'Table of Contents': Preformated yet empty table of contents sheet
 - 'Executive Summary: Preformated yet empty executive summary sheet
 
