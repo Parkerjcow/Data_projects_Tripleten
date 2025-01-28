@@ -13,7 +13,6 @@ This project analyzes the Zuber database, focusing on identifying key performanc
 ## Key Deliverables
 
 - **Data Cleaning and Preparation**: Ensured all data was properly formatted and missing values addressed.
-- **Visual Analytics**: Generated insightful visualizations to highlight trends and patterns in Zuber’s operations.
 - **Key Insights**: Identified correlations and anomalies in the data, which directly inform operational strategies.
 
 ## Tools and Techniques
