@@ -1,4 +1,4 @@
-# File Title: Zomato Customer Analysis
+# Zomato Customer Analysis
 
 This was my final project for the **TripleTen Business Intelligence Analytics Program**. It was an independent project designed to showcase what I have learned throughout the program. The purpose was to complete the Zomato onboarding project to demonstrate analytical skills for a mock company.
 
