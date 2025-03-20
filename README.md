@@ -39,11 +39,3 @@ This project analyzes the Zuber database, focusing on identifying key performanc
 1. Focus marketing campaigns on high-demand regions during peak hours.
 2. Introduce incentives for drivers in underperforming areas to balance service availability.
 3. Enhance service reliability by improving response times in identified bottleneck regions.
-
-## How to Contribute
-
-If you have suggestions or improvements for the analysis, feel free to fork this repository, create a new branch, and submit a pull request. Contributions are welcome!
-
----
-
-**Author**: [Parker Cowden](https://github.com/Parkerjcow)  
