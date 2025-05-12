@@ -1,6 +1,6 @@
 # Zomato Customer Analysis
 
-This was my final project for the **TripleTen Business Intelligence Analytics Program**. It was an independent project designed to showcase what I have learned throughout the program. The purpose was to complete the Zomato onboarding project to demonstrate analytical skills for a mock company.
+The goal of this analysis is to understand Zomato’s customer base and their purchasing behavior. Using customer demographic and sales data, I aimed to uncover insights that can drive targeted marketing strategies, improve customer engagement, and enhance revenue generation. This analysis focuses on total revenue, customer segmentation by demographic attributes, and average revenue per customer.
 
 ---
 
@@ -10,15 +10,16 @@ This was my final project for the **TripleTen Business Intelligence Analytics Pr
 
 ---
 
-## Table of Contents for Repository Artifacts
+## Key Insights
 
-| **File Number** | **Title**                  | **Description**                                                                 |
-|------------------|---------------------------|---------------------------------------------------------------------------------|
-| 1                | **Raw Data for Customer Segmentation**      | Folder containing 2 .csv files, one for each table used in the analysis.       |
-| 2                | **Final Report.pdf** | A .pdf file with the written report for this project.                          |
-| 3                | **README.md**             | This current page with all relevant information about the project.              |
-| 4                | **Requirements.txt**      | A simple .txt file with the provided project requirements as given by TripleTen.|
-| 5                | **Zamato.PowerBI.pbix**        | Power BI save file for easy access to specific DAX calculations and measures.   |
+### Total Revenue and Customer Metrics
+ - Total Revenue in INR: 987M
+- Number of Customers: 78K
+- Average Revenue Per Customer (INR): 13,000
+- Total Quantity Sold: 2M items
+- Average Quantity Sold Per Customer: 3137 items
+- These metrics indicate a strong customer base and consistent purchasing patterns, with
+signiﬁcant contributions to revenue from individual customers.
 
 ---
 
