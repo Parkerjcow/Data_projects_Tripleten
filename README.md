@@ -23,30 +23,22 @@ signiﬁcant contributions to revenue from individual customers.
 
 ---
 
-## Table of Contents for README
+## Demographic Distribution Age:
 
-| **Section Title** | **Description**                                                                             |
-|--------------------|---------------------------------------------------------------------------------------------|
-| **DATA**           | Describes the source of data, included files, tables, and fields.                          |
-| **Description**    | Explains the final product's purpose, software, format, and included visuals.              |
-| **Assumptions**    | Describes assumptions given by TripleTen and assumptions made based on the data and task.  |
-| **Process**        | A general outline of how this project formed from start to finish.                         |
-| **Findings**       | Insights learned from the data analysis.                                                   |
-
+- The majority of Zomato’s customers fall between the ages of 20 and 30, with the highest concentration around the age of 23.
+- This shows that Zomato’s target audience largely consists of young adults, likely students or early-career professionals.
 ---
 
-## DATA
+## Gender:
+Male customers form a slightly larger portion of Zomato’s customer base, suggesting a balanced gender distribution with room to engage more female customers.
+- Male customers: 57.22%
+- Female customers: 42.78%
 
-TripleTen provided an archived file containing 5 separate Excel files from the mock company Zomato. For this project, I used 2 key files:
-
-1. **Orders**: All orders made from the menu by all customers at all restaurants between Oct. 4th, 2017, and June 26th, 2020.
-2. **Users**: All customers who completed orders during the designated time frame, including demographic information.
-
-Additionally, the following tables were created for analysis purposes:
-- **Measures Table**: Contains all calculated measures to maintain the integrity of the original files.
-- **Calendar**: Stores all date-related information for calculations.
-- **Segmentations**: Contains RFM scores and customer segmentation details.
-- **RFM Table**: Stores all RFM calculations for the analysis.
+## Marital Status:
+Single customers dominate the customer base, which aligns with the age distribution.
+- Single customers: 53,772
+- Married customers: 21,762
+- Prefer not to say: 2,395
 
 ---
 
