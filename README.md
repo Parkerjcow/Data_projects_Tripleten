@@ -65,15 +65,16 @@ Key Takeaway: Male customers in smaller families are driving higher revenues. Zo
 - Families of 3 members contribute the highest total revenue, followed by families of 2 and 4 members.
 - Within each family size, male customers contribute more revenue than female customers, though the gap narrows as family size increases.
 
-![Education](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Education.png) ![Income](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Income.png)
-![Family Size](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Family%20Size.png)
-
 **Total Revenue by Monthly Income and Marital Status**
 
 Key Takeaway: Zomato’s marketing efforts should focus on single customers in the no-income bracket and married customers in higher-income groups for premium offerings.
 
 - Customers with no income generate the most revenue, driven primarily by single customers.
 - For higher-income groups (₹25,001–₹50,000 and more than ₹50,000), married customers contribute more signiﬁcantly to revenue.
+
+![Education](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Education.png) ![Income](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Income.png)
+![Family Size](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Family%20Size.png)
+![Revenue](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Revenue.png)
 
 ---
 
