@@ -79,19 +79,19 @@ Key Takeaway: Zomato’s marketing efforts should focus on single customers in t
 
 **Young Adults Are the Key Demographic**
 
-Customers aged 20–30 are Zomato’s primary audience, with single, educated individuals being the most common proﬁle. This demographic likely prioritizes convenience and affordability.
+- Customers aged 20–30 are Zomato’s primary audience, with single, educated individuals being the most common proﬁle. This demographic likely prioritizes convenience and affordability.
 
 **Balanced Gender Distribution**
 
-Although slightly male-dominated, the gender split is relatively balanced, leaving an opportunity to attract more female customers through targeted marketing.
+- Although slightly male-dominated, the gender split is relatively balanced, leaving an opportunity to attract more female customers through targeted marketing.
 
-Revenue Potential from Mid-Income Earners:
+**Revenue Potential from Mid-Income Earners**
 
-While a large percentage of customers report no income, mid-income earners contribute signiﬁcantly to revenue. These customers should be targeted for premium offerings or loyalty programs.
+- While a large percentage of customers report no income, mid-income earners contribute signiﬁcantly to revenue. These customers should be targeted for premium offerings or loyalty programs.
 
-Opportunities in Family-Based Marketing:
+**Opportunities in Family-Based Marketing**
 
-With most customers coming from small families, Zomato can explore family meal bundles or group discounts to boost sales.
+- With most customers coming from small families, Zomato can explore family meal bundles or group discounts to boost sales.
 
 
 
