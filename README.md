@@ -32,7 +32,9 @@ signiﬁcant contributions to revenue from individual customers.
 Male customers form a slightly larger portion of Zomato’s customer base, suggesting a balanced gender distribution with room to engage more female customers.
 - Male customers: 57.22%
 - Female customers: 42.78%
- 
+
+![Gender](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Gender.png)
+
 
 **Marital Status**
 
@@ -41,8 +43,6 @@ Single customers dominate the customer base, which aligns with the age distribut
 - Married customers: 21,762
 - Prefer not to say: 2,395
 
-![Demographics](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Demographic%20Distribution.png) ![Marriage](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Gender.png)
-![Demographics](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Marital%20Status.png)
 
 ---
 
