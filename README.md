@@ -59,8 +59,6 @@ This suggests that Zomato caters not only to budget-conscious customers but also
 - Customers with no reported income: Largest segment (37,550)
 - Other signiﬁcant income brackets: $25,001–$50,000 and more than $50,000.
 
-![Income](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Income.png)
-
 **Total Revenue by Family Size and Gender**
 
 Key Takeaway: Male customers in smaller families are driving higher revenues. Zomato can explore targeted campaigns for family bundles, especially for families of 3 and 4 members.
@@ -77,8 +75,6 @@ Key Takeaway: Zomato’s marketing efforts should focus on single customers in t
 
 - Customers with no income generate the most revenue, driven primarily by single customers.
 - For higher-income groups (₹25,001–₹50,000 and more than ₹50,000), married customers contribute more signiﬁcantly to revenue.
-
-![Revenue](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Revenue.png) 
 
 ---
 
