@@ -100,23 +100,23 @@ With most customers coming from small families, Zomato can explore family meal b
 
 **Target Marketing Campaigns at Young Professionals**
 
-Focus on promoting convenient and affordable meal options to attract customers aged 20–30. Highlight offers for singles and small families.
+- Focus on promoting convenient and affordable meal options to attract customers aged 20–30. Highlight offers for singles and small families.
 
 **Increase Engagement with Female Customers**
 
-Develop campaigns or offerings tailored to female customers, such as health-conscious meal plans or social media engagement.
+- Develop campaigns or offerings tailored to female customers, such as health-conscious meal plans or social media engagement.
 
 **Promote Premium Subscriptions**
 
-Encourage higher-income customers to subscribe to premium services or order premium products, leveraging their disposable income.
+- Encourage higher-income customers to subscribe to premium services or order premium products, leveraging their disposable income.
 
 **Explore Discounts for Larger Quantities**
 
-Given the high average quantity sold per customer, Zomato can introduce bulk discounts or loyalty rewards for frequent orders.
+- Given the high average quantity sold per customer, Zomato can introduce bulk discounts or loyalty rewards for frequent orders.
 
 **Expand Educational Marketing**
 
-Partner with universities and colleges to capture the educated, younger demographic by promoting student discounts or meal plans.
+- Partner with universities and colleges to capture the educated, younger demographic by promoting student discounts or meal plans.
 
 ---
 
