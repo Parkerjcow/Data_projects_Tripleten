@@ -13,9 +13,10 @@ The goal of this analysis is to understand Zomato’s customer base and their pu
 ## Key Insights
 
 **Total Revenue and Customer Metrics**
+
 These metrics indicate a strong customer base and consistent purchasing patterns, with
 signiﬁcant contributions to revenue from individual customers.
- - Total Revenue in INR: 987M
+- Total Revenue in INR: 987M
 - Number of Customers: 78K
 - Average Revenue Per Customer (INR): 13,000
 - Total Quantity Sold: 2M items
@@ -29,24 +30,18 @@ signiﬁcant contributions to revenue from individual customers.
 
 
 **Gender**
+
 Male customers form a slightly larger portion of Zomato’s customer base, suggesting a balanced gender distribution with room to engage more female customers.
 - Male customers: 57.22%
 - Female customers: 42.78%
 
 **Marital Status**
+
 Single customers dominate the customer base, which aligns with the age distribution.
 - Single customers: 53,772
 - Married customers: 21,762
 - Prefer not to say: 2,395
 
-
-**Description**
-- **Analysis Type**: Customer Segmentation Analysis
-- **Tool Used**: Power BI
-- **Visuals Included**:
-  - KPI Cards
-  - Pie Charts
-  - Bar Charts
 
 
 **Educational Qualiﬁcation**
@@ -54,12 +49,14 @@ Single customers dominate the customer base, which aligns with the age distribut
 - Graduate and Post-Graduate customers form the majority, highlighting a well- educated customer base. This indicates an opportunity to target individuals with disposable income and a preference for convenience.
 
 **Income**
+
 This suggests that Zomato caters not only to budget-conscious customers but also to a signiﬁcant number of mid- to high-income earners.
 - Customers with no reported income: Largest segment (37,550)
 - Other signiﬁcant income brackets: $25,001–$50,000 and more than $50,000.
 
 
 **Total Revenue by Family Size and Gender**
+
 Key Takeaway: Male customers in smaller families are driving higher revenues. Zomato can explore targeted campaigns for family bundles, especially for families of 3 and 4 members.
 
 - Families of 3 members contribute the highest total revenue, followed by families of 2 and 4 members.
@@ -68,6 +65,7 @@ Key Takeaway: Male customers in smaller families are driving higher revenues. Zo
 
 
 **Total Revenue by Monthly Income and Marital Status**
+
 Key Takeaway: Zomato’s marketing efforts should focus on single customers in the no-income bracket and married customers in higher-income groups for premium offerings.
 
 - Customers with no income generate the most revenue, driven primarily by single customers.
@@ -98,28 +96,27 @@ With most customers coming from small families, Zomato can explore family meal b
 
 ## Recommendations
 
-Target Marketing Campaigns at Young Professionals:
+**Target Marketing Campaigns at Young Professionals**
 
-Focus on promoting convenient and affordable meal options to attract customers
+Focus on promoting convenient and affordable meal options to attract customers aged 20–30. Highlight offers for singles and small families.
 
-aged 20–30. Highlight offers for singles and small families.
+**Increase Engagement with Female Customers**
 
-Increase Engagement with Female Customers:
+Develop campaigns or offerings tailored to female customers, such as health-conscious meal plans or social media engagement.
 
-Develop campaigns or offerings tailored to female customers, such as health- conscious meal plans or social media engagement.
-
-Promote Premium Subscriptions:
+**Promote Premium Subscriptions**
 
 Encourage higher-income customers to subscribe to premium services or order premium products, leveraging their disposable income.
 
-Explore Discounts for Larger Quantities:
+**Explore Discounts for Larger Quantities**
 
 Given the high average quantity sold per customer, Zomato can introduce bulk discounts or loyalty rewards for frequent orders.
 
-Expand Educational Marketing:
+**Expand Educational Marketing**
 
 Partner with universities and colleges to capture the educated, younger demographic by promoting student discounts or meal plans.
 
+---
 
 # Final Thoughts
 
