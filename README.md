@@ -27,6 +27,7 @@ signiﬁcant contributions to revenue from individual customers.
 - The majority of Zomato’s customers fall between the ages of 20 and 30, with the highest concentration around the age of 23.
 - This shows that Zomato’s target audience largely consists of young adults, likely students or early-career professionals.
 
+![Demographics](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Demographic%20Distribution.png)
 
 **Gender**
 
