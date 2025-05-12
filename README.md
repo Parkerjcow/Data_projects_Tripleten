@@ -8,7 +8,6 @@ The goal of this analysis is to understand Zomato’s customer base and their pu
 
 ![Zomato Dashboard](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/07e083d1db271c9f1ccf489447858529d44bfbe2/Zamato%20Customer%20Analysis%20Dashboard.png)
 
----
 
 ## Key Insights
 
@@ -73,7 +72,7 @@ Key Takeaway: Zomato’s marketing efforts should focus on single customers in t
 - Customers with no income generate the most revenue, driven primarily by single customers.
 - For higher-income groups (₹25,001–₹50,000 and more than ₹50,000), married customers contribute more signiﬁcantly to revenue.
 
-
+---
 
 ## Conclusions
 
