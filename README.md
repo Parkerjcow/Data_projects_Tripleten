@@ -32,8 +32,6 @@ signiﬁcant contributions to revenue from individual customers.
 Male customers form a slightly larger portion of Zomato’s customer base, suggesting a balanced gender distribution with room to engage more female customers.
 - Male customers: 57.22%
 - Female customers: 42.78%
-
-
  
 
 **Marital Status**
@@ -43,17 +41,15 @@ Single customers dominate the customer base, which aligns with the age distribut
 - Married customers: 21,762
 - Prefer not to say: 2,395
 
+![Demographics](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Demographic%20Distribution.png) ![Marriage](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Gender.png)
+![Demographics](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Marital%20Status.png)
 
+---
 
 **Educational Qualiﬁcation**
 
 - Graduate and Post-Graduate customers form the majority, highlighting a well- educated customer base. This indicates an opportunity to target individuals with disposable income and a preference for convenience.
 
-![Demographics](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Demographic%20Distribution.png) ![Marriage](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Gender.png)
-![Demographics](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Marital%20Status.png)
-
-
----
 
 **Income**
 
@@ -69,7 +65,8 @@ Key Takeaway: Male customers in smaller families are driving higher revenues. Zo
 - Families of 3 members contribute the highest total revenue, followed by families of 2 and 4 members.
 - Within each family size, male customers contribute more revenue than female customers, though the gap narrows as family size increases.
 
-
+![Education](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Education.png) ![Income](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Income.png)
+![Family Size](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Family%20Size.png)
 
 **Total Revenue by Monthly Income and Marital Status**
 
