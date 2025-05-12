@@ -13,13 +13,13 @@ The goal of this analysis is to understand Zomato’s customer base and their pu
 ## Key Insights
 
 ### Total Revenue and Customer Metrics
+These metrics indicate a strong customer base and consistent purchasing patterns, with
+signiﬁcant contributions to revenue from individual customers.
  - Total Revenue in INR: 987M
 - Number of Customers: 78K
 - Average Revenue Per Customer (INR): 13,000
 - Total Quantity Sold: 2M items
 - Average Quantity Sold Per Customer: 3137 items
-- These metrics indicate a strong customer base and consistent purchasing patterns, with
-signiﬁcant contributions to revenue from individual customers.
 
 ---
 
