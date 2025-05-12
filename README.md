@@ -47,25 +47,32 @@ Single customers dominate the customer base, which aligns with the age distribut
 ---
 
 **Educational Qualiﬁcation**
+
 ![Education](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Education.png)
+
 - Graduate and Post-Graduate customers form the majority, highlighting a well- educated customer base. This indicates an opportunity to target individuals with disposable income and a preference for convenience.
 
 
 **Income**
+
 ![Income](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Income.png)
+
 This suggests that Zomato caters not only to budget-conscious customers but also to a signiﬁcant number of mid- to high-income earners.
 - Customers with no reported income: Largest segment (37,550)
 - Other signiﬁcant income brackets: $25,001–$50,000 and more than $50,000.
 
 
 **Total Revenue by Family Size and Gender**
+
 ![Family Size](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Family%20Size.png)
+
 Key Takeaway: Male customers in smaller families are driving higher revenues. Zomato can explore targeted campaigns for family bundles, especially for families of 3 and 4 members.
 
 - Families of 3 members contribute the highest total revenue, followed by families of 2 and 4 members.
 - Within each family size, male customers contribute more revenue than female customers, though the gap narrows as family size increases.
 
 **Total Revenue by Monthly Income and Marital Status**
+
 ![Revenue](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Revenue.png)
 
 Key Takeaway: Zomato’s marketing efforts should focus on single customers in the no-income bracket and married customers in higher-income groups for premium offerings.
