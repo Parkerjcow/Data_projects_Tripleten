@@ -94,7 +94,7 @@ Key Takeaway: Zomato’s marketing efforts should focus on single customers in t
 - With most customers coming from small families, Zomato can explore family meal bundles or group discounts to boost sales.
 
 
-
+---
 
 ## Recommendations
 
