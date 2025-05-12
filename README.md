@@ -48,6 +48,8 @@ Single customers dominate the customer base, which aligns with the age distribut
 
 - Graduate and Post-Graduate customers form the majority, highlighting a well- educated customer base. This indicates an opportunity to target individuals with disposable income and a preference for convenience.
 
+---
+
 **Income**
 
 This suggests that Zomato caters not only to budget-conscious customers but also to a signiﬁcant number of mid- to high-income earners.
