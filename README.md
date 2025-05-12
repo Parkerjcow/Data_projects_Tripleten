@@ -5,7 +5,7 @@ The goal of this analysis is to understand Zomato’s customer base and their pu
 ---
 
 ## Dashboard
-
+![Zomato Dashboard](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/07e083d1db271c9f1ccf489447858529d44bfbe2/Zamato%20Customer%20Analysis%20Dashboard.png)
 
 
 ## Key Insights
@@ -26,7 +26,7 @@ signiﬁcant contributions to revenue from individual customers.
 - The majority of Zomato’s customers fall between the ages of 20 and 30, with the highest concentration around the age of 23.
 - This shows that Zomato’s target audience largely consists of young adults, likely students or early-career professionals.
 
-![Demographics](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Demographic%20Distribution.png) ![Zomato Dashboard](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/07e083d1db271c9f1ccf489447858529d44bfbe2/Zamato%20Customer%20Analysis%20Dashboard.png)
+![Demographics](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Demographic%20Distribution.png) ![Gender](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Gender.png)
 
 
 **Gender**
@@ -35,7 +35,7 @@ Male customers form a slightly larger portion of Zomato’s customer base, sugge
 - Male customers: 57.22%
 - Female customers: 42.78%
 
-![Gender](https://github.com/Parkerjcow/Data_projects_Tripleten/blob/Zomato-Customer-Analysis/images/Gender.png)
+
  
 
 **Marital Status**
