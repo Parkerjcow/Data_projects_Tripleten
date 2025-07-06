@@ -13,24 +13,24 @@ The purpose was to prepare an analysis for the CEO to help them understand what 
 
 ## Key Insights
 1. Returns Are the Primary Driver of Profit Loss
- - Returned purchases represent a significant drag on profitability.
- - Negative profits correlate directly with higher return volumes.
+   - Returned purchases represent a significant drag on profitability.
+   - Negative profits correlate directly with higher return volumes.
 
 2. High Return Rates in Technology Category
- - The Technology category recorded the highest return rate among all departments.
- - Suggests a need for quality control or clearer product expectations in this category.
+   - The Technology category recorded the highest return rate among all departments.
+   - Suggests a need for quality control or clearer product expectations in this category.
 
 3. Repeat Returners
- - Several individual customers had a 100% return rate, pointing to possible abuse or poor product/customer alignment.
+   - Several individual customers had a 100% return rate, pointing to possible abuse or poor product/customer alignment.
 
 4. Geographic Variation
- - Return rates varied by state and sub-category, indicating that regional product preferences or service expectations may play a role.
+   - Return rates varied by state and sub-category, indicating that regional product preferences or service expectations may play a role.
 
 5. Seasonal Patterns
- - Certain months exhibited higher return volumes, highlighting a potential for seasonal return trends.
+   - Certain months exhibited higher return volumes, highlighting a potential for seasonal return trends.
 
 6. Low-Selling Products Still Returned
- - Some of the lowest-selling products had a 100% return rate, suggesting inventory or product relevance issues.
+   - Some of the lowest-selling products had a 100% return rate, suggesting inventory or product relevance issues.
 
 ## Analytical Process
 - Combined orders and returns tables using a LEFT JOIN.
