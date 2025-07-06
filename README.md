@@ -11,7 +11,7 @@ The purpose was to prepare an analysis for the CEO to help them understand what 
   - 'orders': details all fields for each ordered item
   - 'returns': details all fields for each returned item
 
-**Key Insights**
+## Key Insights
 1. Returns Are the Primary Driver of Profit Loss
  - Returned purchases represent a significant drag on profitability.
  - Negative profits correlate directly with higher return volumes.
@@ -32,17 +32,17 @@ The purpose was to prepare an analysis for the CEO to help them understand what 
 6. Low-Selling Products Still Returned
  - Some of the lowest-selling products had a 100% return rate, suggesting inventory or product relevance issues.
 
-**Analytical Process**
+## Analytical Process
 - Combined orders and returns tables using a LEFT JOIN.
 - Created interactive dashboards and visuals in Tableau to explore trends by:
- - Product category
- - Region
- - Time period
- - Customer-level return behavior
+   - Product category
+   - Region
+   - Time period
+   - Customer-level return behavior
 
 - Built a 9-page Tableau Story to communicate findings and recommendations to stakeholders.
 
-**Recommendations**
+# Recommendations
 - Investigate the Technology category for fulfillment, quality, or misalignment issues.
 - Identify and monitor high-return customers to apply stricter pre-screening.
 - Optimize seasonal inventory and marketing strategies during high-return periods.
